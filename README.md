@@ -22,7 +22,7 @@ Python 3 · NumPy · Pandas · Matplotlib · Seaborn · LaTeX (cumcmthesis)
 ## 文件结构
 
 ```
-├── paper.pdf              # 竞赛论文 (30 页)
+├── paper.pdf              # 竞赛论文 (29 页)
 ├── requirements.txt       # Python 依赖
 ├── src/                   # 核心代码
 │   ├── data_loader.py     # 数据加载
