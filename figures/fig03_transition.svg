@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="353.4pt" height="194.952187pt" viewBox="0 0 353.4 194.952187" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-22T23:39:13.226683</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 194.952187 
+L 353.4 194.952187 
+L 353.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 58.05 103.872187 
+L 91.95 103.872187 
+L 91.95 85.232187 
+L 58.05 85.232187 
+z
+" clip-path="url(#p60247162f1)" style="fill: #3775ba; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 159.75 103.872187 
+L 193.65 103.872187 
+L 193.65 85.232187 
+L 159.75 85.232187 
+z
+" clip-path="url(#p60247162f1)" style="fill: #3775ba; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 261.45 103.872187 
+L 295.35 103.872187 
+L 295.35 85.232187 
+L 261.45 85.232187 
+z
+" clip-path="url(#p60247162f1)" style="fill: #3775ba; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 159.75 181.538854 
+L 193.65 181.538854 
+L 193.65 162.898854 
+L 159.75 162.898854 
+z
+" clip-path="url(#p60247162f1)" style="fill: #3775ba; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 58.05 47.952188 
+L 91.95 47.952188 
+L 91.95 29.312188 
+L 58.05 29.312188 
+z
+" clip-path="url(#p60247162f1)" style="fill: #3775ba; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="75" y="96.835391" transform="rotate(-0 75 96.835391)">自理</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="176.7" y="96.862734" transform="rotate(-0 176.7 96.862734)">半失能</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="278.4" y="96.862734" transform="rotate(-0 278.4 96.862734)">失能</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="176.7" y="174.515729" transform="rotate(-0 176.7 174.515729)">死亡</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(68 37.240391)">新增</text>
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(62.75 44.809141)">(7%/年)</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 95.646019 94.552187 
+Q 125.85061 94.552187 155.160773 94.552187 
+" style="fill: none; stroke: #767676; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 152.360773 93.152187 
+L 155.160773 94.552187 
+L 152.360773 95.952187 
+" style="fill: none; stroke: #767676; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #767676" x="125.85" y="90.824187" transform="rotate(-0 125.85 90.824187)">4.5%/年</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 197.346019 94.552187 
+Q 227.55061 94.552187 256.860773 94.552187 
+" style="fill: none; stroke: #767676; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 254.060773 93.152187 
+L 256.860773 94.552187 
+L 254.060773 95.952187 
+" style="fill: none; stroke: #767676; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #767676" x="227.55" y="90.824187" transform="rotate(-0 227.55 90.824187)">10%/年</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 76.753555 106.389718 
+Q 125.849867 133.385448 174.358359 160.057964 
+" style="fill: none; stroke: #767676; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 172.579349 157.48209 
+L 174.358359 160.057964 
+L 171.230254 159.935648 
+" style="fill: none; stroke: #767676; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #767676" x="80.085" y="133.385521" transform="rotate(-0 80.085 133.385521)">5%/年</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 176.7 107.422176 
+Q 176.7 133.384963 176.7 158.67693 
+" style="fill: none; stroke: #767676; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 178.1 155.87693 
+L 176.7 158.67693 
+L 175.3 155.87693 
+" style="fill: none; stroke: #767676; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #767676" x="181.785" y="133.385521" transform="rotate(-0 181.785 133.385521)">5%/年</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 276.646445 106.389718 
+Q 227.550133 133.385448 179.041641 160.057964 
+" style="fill: none; stroke: #767676; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 182.169746 159.935648 
+L 179.041641 160.057964 
+L 180.820651 157.48209 
+" style="fill: none; stroke: #767676; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #767676" x="283.485" y="133.385521" transform="rotate(-0 283.485 133.385521)">5%/年</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 75 51.503693 
+Q 75 66.591691 75 80.785262 
+" style="fill: none; stroke: #767676; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 76.4 77.985262 
+L 75 80.785262 
+L 73.6 77.985262 
+" style="fill: none; stroke: #767676; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #767676" x="85.17" y="60.378854" transform="rotate(-0 85.17 60.378854)">7%/年</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'SimHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="176.7" y="13.992188" transform="rotate(-0 176.7 13.992188)">老人状态转移与人口演化</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p60247162f1">
+   <rect x="7.2" y="19.992188" width="339" height="167.76"/>
+  </clipPath>
+ </defs>
+</svg>
