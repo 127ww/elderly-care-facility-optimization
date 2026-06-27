@@ -34,8 +34,7 @@ Python 3 · NumPy · Pandas · Matplotlib · Seaborn · LaTeX (cumcmthesis)
 │   ├── q4_sensitivity.py  # 灵敏度分析
 │   └── visualization.py   # 图表生成
 ├── output/                # 模型输出 (CSV)
-├── figures/               # 论文图表 (PDF)
-└── CLAUDE.md              # 项目规范
+└── figures/               # 论文图表 (PDF)
 ```
 
 ## 复现
